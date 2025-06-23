@@ -209,7 +209,6 @@ icon = pygame.image.load('assets/Images/icon.png').convert()
 pygame.display.set_icon(icon)
 
 #variabile joc
-game_run = True
 score = 0
 score_1 = 0
 score_2 = 0
