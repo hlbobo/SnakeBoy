@@ -9,7 +9,6 @@
 - 1-player level-based progression (up to 5 levels)
 - 2-player competitive mode with real-time collision and scoring
 - Custom high score tracking (singleplayer & multiplayer)
-- Adjustable music and sound effects volume
 
 ## 🛠 Requirements
 
