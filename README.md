@@ -1,5 +1,5 @@
 # 🐍 SnakeBoy
-![Logo](assets/Images/logo.png)
+<img src="assets/Images/logo.png" alt="drawing" width="200"/>
 
 **SnakeBoy** is a modern twist on the classic Snake game with a clean visual design inspired by the aesthetic of the GameBoy and the old Nokia phones, enhanced sound effects, and support for both singleplayer and competitive 2-player modes.
 
